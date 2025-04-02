@@ -23,7 +23,7 @@
     - `RabbitMQ`
     - **`Kafka`**
     - `gRPC`
-    - `nats.io`)
+    - `nats.io`
 - REST
 - Event-Driven Architecture
 
